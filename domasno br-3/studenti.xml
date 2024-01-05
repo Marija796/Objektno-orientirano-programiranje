@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Studenti>
+	<Student id="0">
+		<Ime>Stefan</Ime>
+		<Prezime>Stefanovski</Prezime>
+		<Index>105</Index>
+	</Student>
+	<Student id="1">
+		<Ime>Aleksandar</Ime>
+		<Prezime>Petkovski</Prezime>
+		<Index>106</Index>
+	</Student>
+</Studenti>
